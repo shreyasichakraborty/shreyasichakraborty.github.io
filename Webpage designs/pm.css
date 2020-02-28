@@ -1,0 +1,32 @@
+body{
+	background: url(https://images.unsplash.com/photo-1501834694136-5c1e87f85fa7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=688&q=80);
+	background-size: cover;
+	background-position: center;
+	font-style: "Ubuntu";
+}
+#content{
+
+	text-align: center;
+	padding: 25%;
+	color: white;
+	font-style: "Ubuntu";
+	text-shadow: 0px 4px 3px red,
+				 0px 8px 13px orange,
+				 0px 18px 23px yellow;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em; 
+	font-style: "Ubuntu";
+}
+
+html{
+	height: 100%;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
